@@ -569,3 +569,26 @@ section#journal.page section#journal.page {
     padding: 15px;
   }
 }
+
+
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 15px 10px;
+}
+
+.sidebar-logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.logo {
+    font-family: var(--font-secondary);
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--primary-color);
+}
